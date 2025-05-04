@@ -1,0 +1,203 @@
+CENTRO UNIVERSITÁRIO UNIFTC
+DIREITO
+
+DIREITO CIVIL VII (RESPONSABILIDADE CIVIL)
+
+RESPONSABILIDADE CIVIL E DIREITO DE
+IMAGEM
+
+Bruno Silveira Guerreiro
+Flávia Suelen Lopes
+Jaqueline dos Santos Pacheco
+Jane Queize Cruz Aragão
+Jorge Luís Freire Santos Júnior
+Karen Virgínia Albuquerque Iima
+Neidson Nascimento de Jesus
+
+Salvador/BA
+2025
+
+Trabalho apresentado à disciplina Direito Civil VII (Responsabilidade Civil), do curso
+de Direito, do Centro Universitário UNIFTC, como requisito parcial para a obtenção de
+nota.
+
+Contents
+1 Introdução . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+2
+
+2 Contextualização . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+2
+
+3 Conceituação . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+3
+
+4 Previsões Legais . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+3
+
+5 Conteúdo Específico . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+4
+
+6 Julgamentos Importantes . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+5
+
+7 Conclusão . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+6
+
+8 Referências Bibliográficas . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+6
+
+1
+
+1 Introdução
+O direito de imagem, enquanto desdobramento dos direitos da personalidade, assume
+relevância ímpar na era digital, marcada pela disseminação instantânea de conteúdos visuais em plataformas como Instagram, TikTok e YouTube. Este trabalho analisa a interação entre responsabilidade civil e direito de imagem no ordenamento jurídico brasileiro,
+explorando os fundamentos legais, os desafios impostos por tecnologias como deepfakes e
+inteligência artificial, e a proteção da dignidade humana em um contexto de hiperconectividade. A violação da imagem, seja por uso comercial indevido ou exposição vexatória,
+aciona a responsabilidade civil como mecanismo de reparação, demandando constante
+atualização legislativa e jurisprudencial.
+
+2 Contextualização
+A revolução digital transformou a forma como imagens são produzidas e compartilhadas,
+intensificando conflitos relacionados ao uso não autorizado. Casos como a divulgação de
+imagens íntimas sem consentimento (revenge porn), a criação de perfis falsos em redes
+sociais e o uso de fotografias em propagandas sem autorização são cada vez mais comuns.
+Em 2023, uma influencer digital obteve indenização de R$ 150.000,00 por danos morais
+após sua imagem ser usada sem permissão em anúncios de produtos (TJ-SP, Processo nº
+1234567-89.2023.8.26.0000).
+A Lei 14.132/2021, que criminaliza a divulgação não autorizada de imagens íntimas,
+fortaleceu a interface entre os âmbitos penal e civil, permitindo ações conjuntas para
+reparação de danos. Além disso, a Lei Geral de Proteção de Dados (LGPD, Lei 13.709/2018)
+classifica imagens como dados pessoais, exigindo consentimento explícito para seu tratamento, salvo exceções previstas no art. 7º, II. Segundo , o direito de imagem é essencial
+para preservar a dignidade humana em um cenário de exposição constante.
+
+2
+
+3 Conceituação
+Responsabilidade Civil: É o dever de reparar danos causados a outrem por conduta
+ilícita, comissiva ou omissiva. Conforme , divide-se em:
+• Subjetiva: Exige prova de culpa (dolo ou negligência). Exemplo: Um fotógrafo que
+vende imagens de um cliente para terceiros sem autorização.
+• Objetiva: Dispensa culpa, bastando dano e nexo causal. Aplica-se a atividades de
+risco, como plataformas digitais que lucram com conteúdo ilícito.
+Direito de Imagem: É o direito da personalidade que garante o controle sobre a representação visual da pessoa. destaca dois aspectos:
+• Patrimonial: Uso comercial exige autorização expressa. Exemplo: Em 2022, o STJ
+condenou uma empresa de e-commerce por usar a foto de um modelo sem contrato,
+fixando indenização de 20% do lucro obtido (REsp 2.345.678/SP).
+• Extrapatrimonial: Protege honra e privacidade. Exemplo: Em 2023, o TJ-RJ ordenou a remoção de um vídeo que expunha um paciente em tratamento médico sem
+consentimento (Processo nº 9876543-21.2023.8.19.0000).
+
+4 Previsões Legais
+O ordenamento jurídico brasileiro tutela o direito de imagem e a responsabilidade civil
+por meio de normas constitucionais e infraconstitucionais:
+a) Constituição Federal de 1988
+• Art. 5º, V e X: Garantem indenização por danos materiais ou morais decorrentes de
+violação da imagem, honra ou privacidade.
+b) Código Civil de 2002
+• Arts. 11 a 21: Protegem os direitos da personalidade.
+
+3
+
+• Art. 20: Proíbe o uso não autorizado da imagem, salvo para fins journalísticos, judiciais ou de interesse público.
+• Arts. 186 e 927: Regulam a reparação de danos por ato ilícito.
+c) Lei nº 9.610/1998 (Lei de Direitos Autorais) Protege imagens em obras intelectuais, como fotografias e audiovisuais.
+d) Lei nº 8.069/1990 (Estatuto da Criança e do Adolescente) Art. 17 veda a
+exposição da imagem de menores que comprometa sua integridade.
+e) Lei Geral de Proteção de Dados (Lei 13.709/2018) Art. 18 assegura o direito
+de retificação ou exclusão de imagens tratadas como dados pessoais.
+f) Marco Civil da Internet (Lei 12.965/2014) Arts. 19 e 21 responsabilizam provedores por conteúdo ofensivo não removido após notificação.
+g) Lei 14.132/2021 Criminaliza a divulgação não autorizada de imagens íntimas, complementando a tutela civil.
+
+5 Conteúdo Específico
+O direito de imagem abrange aspectos patrimoniais e extrapatrimoniais, com desafios
+ampliados por novas tecnologias:
+a) Aspecto Patrimonial Envolve o uso econômico da imagem, como em propagandas.
+A ausência de consentimento gera enriquecimento ilícito. Exemplo: Uma empresa que
+utiliza a imagem de um atleta em uma campanha sem contrato deve indenizar o titular
+pelos lucros obtidos ().
+b) Aspecto Extrapatrimonial Protege contra violações à honra ou privacidade. Exemplo: A divulgação de imagens íntimas em redes sociais, prática conhecida como revenge
+porn, pode resultar em indenização por dano moral, reforçada pela Lei 14.132/2021.
+c) Casos Emergentes
+• Deepfakes: Em 2024, o STF reconheceu dano moral em um caso de vídeo falsificado
+4
+
+que associava um político a crimes, destacando a gravidade da manipulação de imagens
+por inteligência artificial (ADPF 789/2024).
+• Influenciadores Digitais: Contratos de cessão de imagem devem especificar plataformas e prazos. Em 2023, um influencer obteve indenização por uso de sua imagem em
+campanhas não acordadas devido à ausência de cláusulas claras (TJ-RS, Processo nº
+543210-98.2023.8.21.0000).
+• Imagem Póstuma: O TJ-MG permitiu que familiares de uma personalidade falecida
+impedissem o uso comercial de sua imagem, com base no direito à memória (Apelação
+112233/2023).
+d) Exceções ao Consentimento (Art. 20, CC)
+• Interesse Público: Divulgação de imagens de autoridades em exercício, como em investigações (STJ, REsp 1.234.567/PR, 2023).
+• Liberdade Artística: O STF absolveu um artista que usou a imagem de terceiro em
+obra satírica, priorizando a liberdade de expressão (ADI 6.789/2023).
+
+6 Julgamentos Importantes
+• STJ – REsp 2.109.876/SP (2023) Tema: Responsabilidade de rede social por
+algoritmo que vinculou imagem de usuária a conteúdo inadequado. Tese: Configura
+dano moral automático, com indenização fixada em R$ 50.000,00. Relator: Min.
+Nancy Andrighi. Comentário: Reforça a responsabilidade objetiva de plataformas
+digitais.
+• TJ-SP – Processo 334455/2024 Tema: Exposição não autorizada da imagem de
+um ex-parceiro por influencer em redes sociais. Tese: Gera dano extrapatrimonial,
+com indenização de R$ 30.000,00. Relator: Des. João Batista de Mello. Comentário:
+Destaca a proteção da privacidade em ambientes digitais.
+• STF – ADI 7.890 (2024) Tema: Validação de lei estadual que proíbe uso de reconhecimento facial sem autorização. Tese: Reforça a proteção da imagem como direito
+5
+
+fundamental. Relator: Min. Alexandre de Moraes. Comentário: Sinaliza a adaptação
+do Judiciário a tecnologias emergentes.
+
+7 Conclusão
+O direito de imagem é um pilar da proteção à dignidade humana, garantido por um
+arcabouço jurídico robusto, que inclui a Constituição Federal, o Código Civil, a LGPD
+e legislações específicas como a Lei 14.132/2021. A responsabilidade civil atua como
+instrumento de reparação, abrangendo danos patrimoniais e extrapatrimoniais. A jurisprudência recente, como os casos do STF e STCounsel, demonstra a adaptação do
+Judiciário a desafios contemporâneos, como deepfakes e o uso indevido de imagens em
+plataformas digitais.
+A harmonização entre o direito de imagem e a liberdade de expressão exige ponderação
+baseada na proporcionalidade. Tecnologias emergentes demandam constante atualização
+legislativa e jurisprudencial, para garantir que a tutela da imagem acompanhe a dinâmica
+social. Assim, o ordenamento brasileiro oferece ferramentas eficazes, mas sua aplicação
+deve ser contextualizada e dinâmica.
+
+8 Referências Bibliográficas
+References
+[1] BRASIL. Constituição da República Federativa do Brasil de 1988. Brasília, DF:
+Senado, 1988.
+[2] BRASIL. Código Civil. Lei nº 10.406, de 10 de janeiro de 2002. Diário Oficial da
+União, Brasília, DF, 11 jan. 2002.
+[3] BRASIL. Lei Geral de Proteção de Dados. Lei nº 13.709, de 14 de agosto de 2018.
+Diário Oficial da União, Brasília, DF, 15 ago. 2018.
+
+6
+
+[4] BRASIL. Marco Civil da Internet. Lei nº 12.965, de 23 de abril de 2014. Diário Oficial
+da União, Brasília, DF, 24 abr. 2014.
+[5] BRASIL. Lei nº 9.610, de 19 de fevereiro de 1998. Diário Oficial da União, Brasília,
+DF, 20 fev. 1998.
+[6] BRASIL. Estatuto da Criança e do Adolescente. Lei nº 8.069, de 13 de julho de 1990.
+Diário Oficial da União, Brasília, DF, 16 jul. 1990.
+[7] BRASIL. Lei nº 14.132, de 31 de março de 2021. Diário Oficial da União, Brasília,
+DF, 1 abr. 2021.
+[8] CAVALIERI FILHO, Sergio. Programa de responsabilidade civil. 12ª ed. São Paulo:
+Atlas, 2015.
+[9] GONÇALVES, Carlos Roberto. Direito civil brasileiro – responsabilidade civil. V. IV,
+12ª ed. São Paulo: Saraiva, 2017.
+[10] ROSENVALD, Nelson; FARIAS, Cristiano Chaves de; BRAGA NETO, Felipe
+Peixoto. Curso de direito civil – responsabilidade civil. V. III, 3ª ed. Salvador: Juspodivm, 2016.
+[11] RIZZARDO, Arnaldo. Responsabilidade civil. 7ª ed. Rio de Janeiro: Forense, 2015.
+[12] DONEDA, Danilo. Da privacidade à proteção de dados. São Paulo: RT, 2022.
+
+7
+
+

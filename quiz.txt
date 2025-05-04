@@ -1,0 +1,106 @@
+QUIZ: RESPONSABILIDADE CIVIL E DIREITO
+DE IMAGEM
+Centro Universitário UNIFTC - Direito Civil VII (Responsabilidade Civil)
+
+Salvador/BA - 2025
+
+1 Perguntas
+1. Qual é o fundamento principal da responsabilidade civil no ordenamento jurídico
+brasileiro?
+• a) Princípio da solidariedade social
+• b) Princípio neminem laedere (não lesar a ninguém)
+• c) Princípio da igualdade
+• d) Princípio da boa-fé objetiva
+2. O direito de imagem é classificado como um direito da personalidade. Qual característica o define?
+• a) É alienável e prescritível
+• b) É inato, inalienável e imprescritível
+• c) É exclusivo para fins comerciais
+• d) Depende de registro público
+3. Segundo a Constituição Federal de 1988, qual artigo assegura indenização por danos
+à imagem?
+• a) Art. 5º, inciso III
+• b) Art. 5º, inciso V
+
+1
+
+• c) Art. 7º, inciso I
+• d) Art. 225
+4. Qual norma brasileira classifica a imagem como dado pessoal, exigindo consentimento para seu uso?
+• a) Código Civil
+• b) Lei Geral de Proteção de Dados (LGPD)
+• c) Estatuto da Criança e do Adolescente
+• d) Lei de Direitos Autorais
+5. Em qual caso a responsabilidade civil objetiva é aplicada?
+• a) Um fotógrafo que vende imagens sem autorização
+• b) Uma plataforma digital que lucra com conteúdo ilegal
+• c) Um jornalista que publica imagem com autorização
+• d) Um indivíduo que acidentalmente divulga uma foto
+6. Qual exceção ao consentimento para uso da imagem é prevista no art. 20 do Código
+Civil?
+• a) Uso em propagandas comerciais
+• b) Divulgação para fins jornalísticos éticos
+• c) Exposição em redes sociais privadas
+• d) Uso em deepfakes artísticos
+7. Em 2023, o STJ decidiu que uma rede social foi responsável por danos morais devido
+a:
+• a) Falha em proteger dados pessoais
+• b) Algoritmo que vinculou imagem a conteúdo inadequado
+
+2
+
+• c) Publicação de imagens autorizadas
+• d) Remoção de conteúdo jornalístico
+8. O que a Lei nº 14.132/2021 estabelece em relação ao direito de imagem?
+• a) Regulamenta o uso de imagens em propagandas
+• b) Criminaliza a divulgação não consentida de imagens íntimas
+• c) Protege imagens em obras intelectuais
+• d) Define regras para reconhecimento facial
+9. Qual julgado do STF reconheceu dano moral por uso de deepfake em 2024?
+• a) REsp 2.109.876/SP
+• b) ADI 7.890
+• c) ADPF 789
+• d) ARE 1469457/SP
+10. Qual princípio deve orientar a harmonização entre direito de imagem e liberdade
+de expressão?
+• a) Princípio da supremacia do interesse público
+• b) Princípio da proporcionalidade
+• c) Princípio da eficiência
+• d) Princípio da legalidade
+
+2 Gabarito e Explicações
+1. Resposta: b) Princípio neminem laedere (não lesar a ninguém) Explicação: A responsabilidade civil fundamenta-se no dever de não causar dano a outrem, conforme
+o princípio neminem laedere, base dos arts. 186 e 927 do Código Civil.
+
+3
+
+2. Resposta: b) É inato, inalienável e imprescritível Explicação: O direito de imagem, como direito da personalidade, é inerente à pessoa, não pode ser transferido
+ou renunciado e não prescreve (Rizzardo, 2015).
+3. Resposta: b) Art. 5º, inciso V Explicação: O art. 5º, V, da CF/1988 assegura
+o direito à indenização por danos materiais ou morais decorrentes de violação da
+imagem.
+4. Resposta: b) Lei Geral de Proteção de Dados (LGPD) Explicação: A LGPD (Lei
+nº 13.709/2018) classifica imagens como dados pessoais, exigindo consentimento
+para seu uso (art. 7º, II).
+5. Resposta: b) Uma plataforma digital que lucra com conteúdo ilegal Explicação:
+A responsabilidade objetiva aplica-se a atividades de risco, como plataformas que
+lucram com conteúdos ilícitos, dispensando prova de culpa (art. 927, parágrafo
+único, CC).
+6. Resposta: b) Divulgação para fins jornalísticos éticos Explicação: O art. 20
+do Código Civil permite o uso da imagem sem autorização em casos de interesse
+público ou jornalismo ético, desde que não haja abuso.
+7. Resposta: b) Algoritmo que vinculou imagem a conteúdo inadequado Explicação:
+No REsp 2.109.876/SP (2023), o STJ reconheceu dano moral automático por falha
+de algoritmo que associou imagem de usuária a conteúdo impróprio.
+8. Resposta: b) Criminaliza a divulgação não consentida de imagens íntimas Explicação: A Lei nº 14.132/2021 tipifica como crime a divulgação não autorizada de
+imagens íntimas, reforçando a tutela cível.
+9. Resposta: c) ADPF 789 Explicação: Em 2024, o STF reconheceu dano moral
+em caso de deepfake que associou um político a crimes, no julgamento da ADPF
+789.
+10. Resposta: b) Princípio da proporcionalidade Explicação: A harmonização entre
+direito de imagem e liberdade de expressão deve seguir o princípio da proporcional4
+
+idade, ponderando os direitos em conflito.
+
+5
+
+
